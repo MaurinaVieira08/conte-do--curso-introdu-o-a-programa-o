@@ -1,0 +1,39 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: big;
+    text-align:left;
+    color: pink;
+    background-color: black;
+}
+body {
+}
+
+.exercicio1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: black;
+background-color: pink;
+border: 3px black;
+}
+.destaque1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: pink; /* cor clara para visualização */
+    margin: 10px; /* cria espaçamento externo de 20px em todos os lados */
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    overflow: hiddens;
+    width: 200px;
+    height: 60px;
+
+}
+
+.destaque2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: pink;
+    margin-top: 50px;
+    margin-right: 51px;
+    margin-bottom: 15px;
+    margin-left: 35px;
+    padding: 50px;
+}
